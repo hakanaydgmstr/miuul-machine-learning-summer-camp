@@ -1,0 +1,8 @@
+
+
+import pandas as pd
+from funcs.data_prep import *
+
+df = pd.read_csv("C:/Users/btskd/miuul_machine_learning/machine_learning/datasets/diabetes.csv")
+
+df.head()
