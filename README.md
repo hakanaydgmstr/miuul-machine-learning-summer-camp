@@ -7,4 +7,4 @@ I attended a machine learning summer camp provided by Miuul. In summer camp, we 
  - Feature Engineering
  - Machine Learning
 
-During the summer camp, I took notes and examples. You can find these notes in subject's files (notes are in Turkish). Also, we did number of projects during the summer camp. You can find the projects in 'projects' file. 
+During the summer camp, I took notes and examples. You can find these notes in the subject's files (notes are in Turkish). Also, we did number of projects during the summer camp. You can find these projects in 'projects' file.
